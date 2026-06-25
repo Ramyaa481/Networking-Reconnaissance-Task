@@ -47,3 +47,21 @@ Protocols are rules used for communication between devices. Examples:
 
 ## Conclusion
 Through this task, I learned the basics of networking and performed basic reconnaissance using safe and simple command-line tools.
+
+## Screenshots
+
+### IP Configuration
+![IP Config](screenshots/ipconfig.png)
+
+### Ping Result
+![Ping](screenshots/ping.png)
+
+### NSLookup Result
+![NSLookup](screenshots/nslookup.png)
+
+### Trace Route
+![Tracert](screenshots/tracert.png)
+
+### Netstat Result
+![Netstat](screenshots/netstat.png)
+

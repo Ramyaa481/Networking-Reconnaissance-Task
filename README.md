@@ -45,9 +45,6 @@ Protocols are rules used for communication between devices. Examples:
 - `netstat -ano`
 - `arp -a`
 
-## Conclusion
-Through this task, I learned the basics of networking and performed basic reconnaissance using safe and simple command-line tools.
-
 ## Screenshots
 
 ### IP Configuration
@@ -64,4 +61,7 @@ Through this task, I learned the basics of networking and performed basic reconn
 
 ### Netstat Result
 ![Netstat](screenshots/netstat.png)
+
+## Conclusion
+Through this task, I learned the basics of networking and performed basic reconnaissance using safe and simple command-line tools.
 

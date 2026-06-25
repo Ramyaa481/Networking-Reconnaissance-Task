@@ -1,0 +1,6 @@
+ipconfig
+ping example.com
+nslookup example.com
+tracert example.com
+netstat -ano
+arp -a

@@ -34,9 +34,7 @@ Protocols define how devices communicate over a network.
 
 **Command:**
 
-```bash
 ipconfig
-```
 
 **Purpose:**
 Displays local IP configuration details such as IPv4 address, subnet mask, and default gateway.
@@ -53,9 +51,7 @@ The system displayed the current network configuration details.
 
 **Command:**
 
-```bash
 ping example.com
-```
 
 **Purpose:**
 Checks connectivity between the local system and the target domain.
@@ -66,15 +62,11 @@ The target domain responded successfully, showing that the internet connection w
 **Screenshot:**
 ![Ping](screenshots/ping.png)
 
----
-
 ### nslookup example.com
 
 **Command:**
 
-```bash
 nslookup example.com
-```
 
 **Purpose:**
 Retrieves DNS information of the target domain.
@@ -85,15 +77,11 @@ The command resolved the domain name into its IP address.
 **Screenshot:**
 ![NSLookup](screenshots/nslookup.png)
 
----
-
 ### tracert example.com
 
 **Command:**
 
-```bash
 tracert example.com
-```
 
 **Purpose:**
 Shows the path taken by packets to reach the destination.
@@ -104,15 +92,11 @@ Multiple network hops were displayed between the local system and the target.
 **Screenshot:**
 ![Tracert](screenshots/tracert.png)
 
----
-
 ### netstat -ano
 
 **Command:**
 
-```bash
 netstat -ano
-```
 
 **Purpose:**
 Displays active network connections and listening ports.
